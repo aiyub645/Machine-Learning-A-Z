@@ -1,3 +1,5 @@
 # Machine-Learning-A-Z
 
-Machine Learning A-Z™ Hands-On Python In Data Science
+Published by SuperDataScience Team
+
+Tuesday Dec 04, 2018
